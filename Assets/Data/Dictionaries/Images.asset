@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6729f5a9804d29a5f6dd3852863d34, type: 3}
+  m_Name: Images
+  m_EditorClassIdentifier: 
+  images:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - Lazurite
+    - StickStone
+    - Rubine
+    - Coblestone
+    - Purplestone
+    - Crabhand
+    - Honey
+    - Palebluestone
+    - Redstone
+    - Gold
+    - Horn
+    _keys:
+    - Lazurite
+    - StickStone
+    - Rubine
+    - Coblestone
+    - Purplestone
+    - Crabhand
+    - Honey
+    - Palebluestone
+    - Redstone
+    - Gold
+    - Horn
+    _values:
+    - {fileID: -5732747483443466111, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: -8679966155197468166, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 3001957441537787673, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 3335794136032191816, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 7860488438020181885, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 955200429727556170, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 1980142279973535832, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: -6432100423048017980, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: 7033898093529213802, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: -7020369629327794792, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
+    - {fileID: -7309234247525053324, guid: 2a31e2fc635ffa44c829ced38015a233, type: 3}
